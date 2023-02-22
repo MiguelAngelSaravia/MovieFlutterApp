@@ -1,4 +1,3 @@
-export 'package:flutter_components/widgets/custom_input_field.dart';
-
-export 'package:flutter_components/widgets/card_custom_style1.dart';
-export 'package:flutter_components/widgets/custom_card_type2.dart';
+export 'package:movies_home_theater_app/widgets/casting_card.dart';
+export 'package:movies_home_theater_app/widgets/movie_slider.dart';
+export 'package:movies_home_theater_app/widgets/card_swiper.dart';
